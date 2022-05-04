@@ -11,10 +11,10 @@ Thus, to guide anyone on a brief overview on the foundations of the Machine Lear
 
 References:
 
-[1] Andriy Burkov - Machine Learning Engineering
+[1] James, Witten, Hastie, Tibshirani - Introduction to Statistical Learning with R
 
-[2] Andrew Ng - Stanford CS229 Machine Learning - https://cs229.stanford.edu/
+[2] Hastie, Tibshirani, Friedman - The Elements of Statistical Learning
 
-[3] Linear Algebra Done Right - Sheldon Axler
+[3] Andriy Burkov - Machine Learning Engineering
 
-[4] Mathematics for Machine Learning - Deisenroth, Faisal, Ong
+[4] Sheldon Axler - Linear Algebra Done Right
