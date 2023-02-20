@@ -1,11 +1,11 @@
-# Machine Learning Theory - The Basics
+# Fundamentals of Machine Learning Theory - Explained
 
 -->> **Please, refer to the Jupyter Notebook above!**
 
 -->> _Work in Progress_
 
 
-The ML field is quite new and I have not found a single book where one can find how the ML theory meets mathematics, statistics and econometrics (the latter due to causal inference and consumer behavior) that can be both deep in theory but easy to learn for any audience that wants to start from scratch (assuming you had good experience with at least high school mathematics). 
+The ML field is quite new and I have not found a single book where one can understand how the ML theory meets mathematics, statistics and maybe even econometrics (the latter due to causal inference - e.g.: applications to the consumer theory in microeconomics) that can be both deep in theory but easy to learn for any audience that wants to start from scratch (assuming you had good experience with at least high school mathematics).
 
 Thus, to guide anyone on a brief overview on the foundations of the Machine Learning Theory, I have created these notes.
 
